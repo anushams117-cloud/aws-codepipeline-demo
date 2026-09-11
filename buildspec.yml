@@ -5,7 +5,7 @@ phases:
     commands:
       - echo "Building AWS CodePipeline demo..."
       - echo "Build completed successfully!"
-      - echo "THIS IS MY LATEST BUILD"
+      - echo "THIS IS MY LATEST BUILD..."
 
 artifacts:
   files:
